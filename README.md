@@ -11,4 +11,4 @@ The app demos the usage of Flutter layout widgets, including
 Note: For demo purposes, the app doesn't implement the [sliver app bar](https://api.flutter.dev/flutter/material/SliverAppBar-class.html).
 
 # Screenshot
-![Simulator Screen Shot - iPhone Xs](https://user-images.githubusercontent.com/2715151/59160831-91fe1f00-8aa8-11e9-81a9-d862dde3403f.png)
+<img src="https://user-images.githubusercontent.com/2715151/59160831-91fe1f00-8aa8-11e9-81a9-d862dde3403f.png" height="600">
